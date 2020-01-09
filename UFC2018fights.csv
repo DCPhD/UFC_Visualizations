@@ -1,0 +1,517 @@
+,Winner,Loser,Winner_Str,Loser_Str,Winner_Td,Loser_Td,Winner_Sub_Attempt,Loser_Sub_Attempt,Weight_class,Method,METHOD,Time,Round
+0,Chan Sung Jung,Frankie Edgar,46,9,0,0,0,0,Featherweight,KO/TKO  Punches,2,3:18,1
+1,Volkan Oezdemir,Aleksandar Rakic,63,75,0,1,0,1,Light Heavyweight,S-DEC,1,5:00,3
+2,Charles Jourdain,Dooho Choi,64,42,0,0,0,0,Featherweight,KO/TKO  Punches,2,4:32,2
+3,Da-Un Jung,Mike Rodriguez,5,4,0,0,0,0,Light Heavyweight,KO/TKO  Punch,2,1:04,1
+4,Junyong Park,Marc-Andre Barriault,77,51,5,0,0,0,Middleweight,U-DEC,1,5:00,3
+5,Kyung Ho Kang,Liu Pingyuan,20,25,3,0,0,0,Bantamweight,S-DEC,1,5:00,3
+6,Ciryl Gane,Tanner Boser,65,32,0,0,0,0,Heavyweight,U-DEC,1,5:00,3
+7,SeungWoo Choi,Suman Mokhtarian,95,33,0,0,0,0,Featherweight,U-DEC,1,5:00,3
+8,Omar Morales,Dong Hyun Ma,32,15,1,0,0,0,Lightweight,U-DEC,1,5:00,3
+9,Alexandre Pantoja,Matt Schnell,34,20,1,0,0,0,Flyweight,KO/TKO  Punch,2,4:17,1
+10,Raoni Barcelos,Said Nurmagomedov,42,55,2,0,0,0,Bantamweight,U-DEC,1,5:00,3
+11,Amanda Lemos,Miranda Granger,8,4,1,0,1,0,Women's Strawweight,SUB  Rear Naked Choke,3,3:43,1
+12,Heili Alateng,Ryan Benoit,47,68,4,0,0,0,Bantamweight,S-DEC,1,5:00,3
+0,Kamaru Usman,Colby Covington,175,143,0,0,0,0,Welterweight,KO/TKO  Punch,2,4:10,5
+1,Alexander Volkanovski,Max Holloway,157,134,0,0,0,0,Featherweight,U-DEC,1,5:00,5
+2,Amanda Nunes,Germaine de Randamie,79,40,8,0,2,1,Women's Bantamweight,U-DEC,1,5:00,5
+3,Marlon Moraes,Jose Aldo,59,58,1,0,0,0,Bantamweight,S-DEC,1,5:00,3
+4,Petr Yan,Urijah Faber,54,18,2,0,0,0,Bantamweight,KO/TKO  Kick,2,0:43,3
+5,Geoff Neal,Mike Perry,15,5,0,0,0,0,Welterweight,KO/TKO  Punches,2,1:30,1
+6,Irene Aldana,Ketlen Vieira,26,20,0,0,0,0,Women's Bantamweight,KO/TKO  Punch,2,4:51,1
+7,Omari Akhmedov,Ian Heinisch,55,53,2,3,0,0,Middleweight,U-DEC,1,5:00,3
+8,Matt Brown,Ben Saunders,30,12,2,0,0,4,Welterweight,KO/TKO  Punches,2,4:55,2
+9,Chase Hooper,Daniel Teymur,20,2,1,0,2,1,Featherweight,KO/TKO  Elbows,2,4:34,1
+10,Brandon Moreno,Kai Kara-France,91,82,0,0,0,0,Flyweight,U-DEC,1,5:00,3
+11,Jessica Eye,Viviane Araujo,98,56,0,2,0,0,Women's Flyweight,U-DEC,1,5:00,3
+12,Punahele Soriano,Oskar Piechota,26,8,1,0,0,0,Middleweight,KO/TKO  Punch,2,3:17,1
+0,Jairzinho Rozenstruik,Alistair Overeem,89,74,0,2,0,0,Heavyweight,KO/TKO  Punch,2,4:56,5
+1,Marina Rodriguez,Cynthia Calvillo,56,78,0,3,0,0,Women's Strawweight,M-DEC,1,5:00,3
+2,Ben Rothwell,Stefan Struve,58,53,0,0,0,0,Heavyweight,KO/TKO  Punches,2,4:57,2
+3,Aspen Ladd,Yana Kunitskaya,47,47,2,0,0,0,Women's Bantamweight,KO/TKO  Punches,2,0:33,3
+4,Cody Stamann,Song Yadong,41,30,5,0,0,0,Bantamweight,M-DEC,1,5:00,3
+5,Rob Font,Ricky Simon,90,59,1,6,0,0,Bantamweight,U-DEC,1,5:00,3
+6,Tim Means,Thiago Alves,23,13,0,0,1,0,Welterweight,SUB  Guillotine Choke,3,2:38,1
+7,Billy Quarantillo,Jacob Kilburn,74,3,1,0,5,0,Featherweight,SUB  Triangle Choke,3,3:18,2
+8,Bryce Mitchell,Matt Sayles,6,2,1,0,1,0,Featherweight,SUB  Other,3,4:20,1
+9,Joe Solecki,Matt Wiman,56,10,4,0,0,0,Lightweight,U-DEC,1,5:00,3
+10,Virna Jandiroba,Mallory Martin,7,9,3,0,3,0,Women's Strawweight,SUB  Rear Naked Choke,3,1:16,2
+11,Makhmud Muradov,Trevor Smith,91,39,1,0,1,0,Middleweight,KO/TKO  Punch,2,4:09,3
+0,Jan Blachowicz,Jacare Souza,71,20,0,0,0,0,Light Heavyweight,S-DEC,1,5:00,5
+1,Mauricio Rua,Paul Craig,25,51,1,1,0,1,Light Heavyweight,S-DEC,1,5:00,3
+2,Charles Oliveira,Jared Gordon,10,7,0,0,0,0,Lightweight,KO/TKO  Punch,2,1:26,1
+3,Andre Muniz,Antonio Arroyo,22,29,3,1,2,0,Middleweight,U-DEC,1,5:00,3
+4,Wellington Turman,Markus Perez,48,49,2,0,0,0,Middleweight,U-DEC,1,5:00,3
+5,James Krause,Sergio Moraes,102,41,0,1,0,0,Welterweight,KO/TKO  Punch,2,4:19,3
+6,Ricardo Ramos,Eduardo Garagorri,10,6,2,0,1,0,Featherweight,SUB  Rear Naked Choke,3,3:57,1
+7,Francisco Trinaldo,Bobby Green,31,50,1,2,1,0,Lightweight,U-DEC,1,5:00,3
+8,Randy Brown,Warlley Alves,16,3,1,3,1,2,Welterweight,SUB  Triangle Choke,3,1:22,2
+9,Douglas Silva de Andrade,Renan Barao,74,58,0,2,0,0,Featherweight,U-DEC,1,5:00,3
+10,Ariane Lipski,Isabela de Padua,31,15,0,2,1,1,Women's Flyweight,U-DEC,1,5:00,3
+11,Tracy Cortez,Vanessa Melo,79,40,2,0,0,0,Women's Bantamweight,U-DEC,1,5:00,3
+0,Zabit Magomedsharipov,Calvin Kattar,96,80,1,0,0,0,Featherweight,U-DEC,1,5:00,3
+1,Alexander Volkov,Greg Hardy,86,46,0,0,0,0,Heavyweight,U-DEC,1,5:00,3
+2,Danny Roberts,Zelim Imadaev,37,28,1,1,0,0,Welterweight,KO/TKO  Punch,2,4:54,2
+3,Ed Herman,Khadis Ibragimov,81,53,0,2,0,0,Light Heavyweight,U-DEC,1,5:00,3
+4,Anthony Rocco Martin,Ramazan Emeev,41,30,0,0,2,0,Welterweight,U-DEC,1,5:00,3
+5,Shamil Gamzatov,Klidson Abreu,64,32,0,1,0,0,Light Heavyweight,S-DEC,1,5:00,3
+6,Magomed Ankalaev,Dalcha Lungiambula,44,6,1,0,0,0,Light Heavyweight,KO/TKO  Kick,2,0:29,3
+7,Rustam Khabilov,Sergey Khandozhko,12,25,4,0,0,0,Welterweight,U-DEC,1,5:00,3
+8,Karl Roberson,Roman Kopylov,43,37,1,0,1,0,Middleweight,SUB  Rear Naked Choke,3,4:01,3
+9,David Zawada,Abubakar Nurmagomedov,2,4,0,1,2,0,Welterweight,SUB  Triangle Choke,3,2:50,1
+10,Roosevelt Roberts,Alexander Yakovlev,28,20,0,3,0,0,Lightweight,U-DEC,1,5:00,3
+11,Pannie Kianzad,Jessica-Rose Clark,98,65,0,0,0,0,Women's Bantamweight,U-DEC,1,5:00,3
+12,Davey Grant,Grigorii Popov,30,35,6,0,0,0,Bantamweight,S-DEC,1,5:00,3
+0,Jorge Masvidal,Nate Diaz,112,43,1,0,0,0,Welterweight,KO/TKO,2,5:00,3
+1,Darren Till,Kelvin Gastelum,36,40,1,1,0,0,Middleweight,S-DEC,1,5:00,3
+2,Stephen Thompson,Vicente Luque,138,77,0,0,0,0,Welterweight,U-DEC,1,5:00,3
+3,Derrick Lewis,Blagoy Ivanov,31,20,1,3,0,1,Heavyweight,S-DEC,1,5:00,3
+4,Kevin Lee,Gregor Gillespie,21,9,0,0,0,0,Lightweight,KO/TKO  Kick,2,2:47,1
+5,Corey Anderson,Johnny Walker,22,1,1,0,0,0,Light Heavyweight,KO/TKO  Punches,2,2:07,1
+6,Shane Burgos,Makwan Amirkhani,105,22,0,3,0,1,Featherweight,KO/TKO  Punch,2,4:32,3
+7,Edmen Shahbazyan,Brad Tavares,14,3,0,0,0,0,Middleweight,KO/TKO  Kick,2,2:27,1
+8,Jairzinho Rozenstruik,Andrei Arlovski,5,4,0,0,0,0,Heavyweight,KO/TKO  Punch,2,0:29,1
+9,Katlyn Chookagian,Jennifer Maia,73,58,0,1,0,0,Women's Flyweight,U-DEC,1,5:00,3
+10,Lyman Good,Chance Rencountre,68,23,0,0,0,0,Welterweight,KO/TKO  Punch,2,2:03,3
+11,Hakeem Dawodu,Julio Arce,55,32,0,1,0,0,Featherweight,S-DEC,1,5:00,3
+0,Demian Maia,Ben Askren,69,63,0,4,1,0,Welterweight,SUB  Rear Naked Choke,3,3:54,3
+1,Stevie Ray,Michael Johnson,85,78,1,0,0,0,Lightweight,M-DEC,1,5:00,3
+2,Beneil Dariush,Frank Camacho,13,3,2,0,1,0,Lightweight,SUB  Rear Naked Choke,3,2:02,1
+3,Ciryl Gane,Don'Tale Mayes,94,32,3,0,1,0,Heavyweight,SUB  Heel Hook,3,4:46,3
+4,Muslim Salikhov,Laureano Staropoli,63,42,3,0,0,0,Welterweight,U-DEC,1,5:00,3
+5,Randa Markos,Ashley Yoder,78,44,0,2,0,0,Women's Strawweight,S-DEC,1,5:00,3
+6,Rafael Fiziev,Alex White,66,55,1,0,0,0,Lightweight,U-DEC,1,5:00,3
+7,Movsar Evloev,Enrique Barzola,71,78,4,1,0,0,Featherweight,U-DEC,1,5:00,3
+8,Sergei Pavlovich,Maurice Greene,20,8,0,0,0,0,Heavyweight,KO/TKO  Punches,2,2:11,1
+9,Loma Lookboonmee,Alexandra Albu,99,65,1,1,0,0,Women's Strawweight,S-DEC,1,5:00,3
+10,Raphael Pessoa,Jeff Hughes,39,34,0,0,0,0,Heavyweight,U-DEC,1,5:00,3
+0,Dominick Reyes,Chris Weidman,8,3,0,1,0,0,Light Heavyweight,KO/TKO  Punches,2,1:43,1
+1,Yair Rodriguez,Jeremy Stephens,96,50,0,3,0,0,Featherweight,U-DEC,1,5:00,3
+2,Greg Hardy,Ben Sosoli,54,26,0,0,0,0,Heavyweight,Overturned,4,5:00,3
+3,Joe Lauzon,Jonathan Pearce,25,8,1,0,0,0,Lightweight,KO/TKO  Punches,2,1:33,1
+4,Maycee Barber,Gillian Robertson,34,12,0,0,0,0,Women's Flyweight,KO/TKO  Punches,2,3:04,1
+5,Darren Stewart,Deron Winn,57,29,1,6,0,0,Middleweight,S-DEC,1,5:00,3
+6,Charles Rosa,Manny Bermudez,6,27,0,1,1,0,Featherweight,SUB  Armbar,3,2:46,1
+7,Molly McCann,Diana Belbita,113,98,5,1,1,0,Women's Flyweight,U-DEC,1,5:00,3
+8,Sean Woodson,Kyle Bochniak,111,42,0,1,0,0,Featherweight,U-DEC,1,5:00,3
+9,Randy Costa,Boston Salmon,22,12,0,0,0,0,Bantamweight,KO/TKO  Punch,2,2:15,1
+10,Sean Brady,Court McGee,119,107,2,0,0,0,Welterweight,U-DEC,1,5:00,3
+11,Brendan Allen,Kevin Holland,10,22,2,1,4,1,Middleweight,SUB  Rear Naked Choke,3,3:38,2
+12,Tanner Boser,Daniel Spitz,93,32,0,0,0,0,Heavyweight,U-DEC,1,5:00,3
+0,Joanna Jedrzejczyk,Michelle Waterson,180,58,3,1,1,1,Women's Strawweight,U-DEC,1,5:00,5
+1,Cub Swanson,Kron Gracie,135,86,0,0,0,0,Featherweight,U-DEC,1,5:00,3
+2,Niko Price,James Vick,11,9,0,0,0,0,Welterweight,KO/TKO  Kick,2,1:44,1
+3,Amanda Ribas,Mackenzie Dern,74,20,2,0,0,0,Women's Strawweight,U-DEC,1,5:00,3
+4,Matt Frevola,Luis Pena,48,51,4,1,0,2,Lightweight,S-DEC,1,5:00,3
+5,Eryk Anders,Gerald Meerschaert,64,72,0,0,0,0,Middleweight,S-DEC,1,5:00,3
+6,Ryan Spann,Devin Clark,17,17,0,2,1,0,Light Heavyweight,SUB  Guillotine Choke,3,2:01,2
+7,Mike Davis,Thomas Gifford,139,88,2,0,0,0,Lightweight,KO/TKO  Punch,2,4:45,3
+8,Alex Morono,Max Griffin,81,75,0,4,0,0,Welterweight,U-DEC,1,5:00,3
+9,Deiveson Figueiredo,Tim Elliott,8,26,0,1,1,0,Flyweight,SUB  Guillotine Choke,3,3:08,1
+10,Marlon Vera,Andre Ewell,80,50,0,0,2,0,Bantamweight,KO/TKO  Elbows,2,3:17,3
+11,Miguel Baeza,Hector Aldana,35,8,1,0,0,0,Welterweight,KO/TKO  Kick,2,2:32,2
+12,Marvin Vettori,Andrew Sanchez,85,39,0,0,0,0,Middleweight,U-DEC,1,5:00,3
+13,JJ Aldrich,Lauren Mueller,74,54,1,1,0,0,Women's Flyweight,U-DEC,1,5:00,3
+0,Israel Adesanya,Robert Whittaker,40,32,0,0,0,0,Middleweight,KO/TKO  Punch,2,3:33,2
+1,Dan Hooker,Al Iaquinta,98,37,0,0,0,0,Lightweight,U-DEC,1,5:00,3
+2,Serghei Spivac,Tai Tuivasa,23,21,6,0,1,0,Heavyweight,SUB  Arm Triangle,3,3:14,2
+3,Dhiego Lima,Luke Jumeau,32,24,2,0,0,0,Welterweight,S-DEC,1,5:00,3
+4,Yorgan De Castro,Justin Tafa,4,6,0,0,0,0,Heavyweight,KO/TKO  Punch,2,2:10,1
+5,Jake Matthews,Rostem Akman,59,15,0,0,0,0,Welterweight,U-DEC,1,5:00,3
+6,Callan Potter,Maki Pitolo,48,60,3,0,0,1,Welterweight,U-DEC,1,5:00,3
+7,Brad Riddell,Jamie Mullarkey,91,36,1,3,0,1,Lightweight,U-DEC,1,5:00,3
+8,Megan Anderson,Zarah Fairn,10,2,1,0,1,0,Women's Featherweight,SUB  Triangle Choke,3,3:57,1
+9,Ji Yeon Kim,Nadia Kassem,80,45,0,1,0,0,Women's Flyweight,KO/TKO  Punch,2,4:59,2
+10,Khalid Taha,Bruno Silva,38,20,0,2,1,0,Bantamweight,SUB  Arm Triangle,3,3:00,3
+0,Jared Cannonier,Jack Hermansson,28,20,0,1,0,0,Middleweight,KO/TKO  Punch,2,0:27,2
+1,Mark Madsen,Danilo Belluardo,22,0,1,0,0,0,Lightweight,KO/TKO  Punches,2,1:12,1
+2,Gilbert Burns,Gunnar Nelson,30,20,1,0,1,0,Welterweight,U-DEC,1,5:00,3
+3,Ion Cutelaba,Khalil Rountree Jr.,15,5,4,0,0,0,Light Heavyweight,KO/TKO  Elbows,2,2:35,1
+4,Ovince Saint Preux,Michal Oleksiejczuk,14,37,1,0,1,0,Light Heavyweight,SUB  Other - Choke,3,2:46,2
+5,Nicolas Dalby,Alex Oliveira,31,18,1,3,0,0,Welterweight,U-DEC,1,5:00,3
+6,John Phillips,Alen Amedovski,5,2,0,0,0,0,Middleweight,KO/TKO  Punch,2,0:17,1
+7,Makhmud Muradov,Alessio Di Chirico,54,36,0,0,0,0,Middleweight,U-DEC,1,5:00,3
+8,Ismail Naurdiev,Siyar Bahadurzada,69,12,3,0,0,0,Welterweight,U-DEC,1,5:00,3
+9,Giga Chikadze,Brandon Davis,59,34,1,3,0,0,Featherweight,S-DEC,1,5:00,3
+10,Lina Lansberg,Macy Chiasson,21,26,2,0,0,0,Women's Bantamweight,U-DEC,1,5:00,3
+11,Marc Diakiese,Lando Vannata,40,25,4,0,0,0,Lightweight,U-DEC,1,5:00,3
+12,Jack Shore,Nohelin Hernandez,46,6,4,0,1,0,Bantamweight,SUB  Rear Naked Choke,3,2:51,3
+0,Yair Rodriguez,Jeremy Stephens,2,0,0,0,0,0,Featherweight,CNC,4,0:15,1
+1,Carla Esparza,Alexa Grasso,44,45,4,0,0,1,Women's Strawweight,M-DEC,1,5:00,3
+2,Brandon Moreno,Askar Askarov,34,30,1,4,0,0,Flyweight,S-DEC,1,5:00,3
+3,Irene Aldana,Vanessa Melo,125,68,0,0,0,0,Women's Bantamweight,U-DEC,1,5:00,3
+4,Steven Peterson,Martin Bravo,49,86,0,2,0,0,Featherweight,KO/TKO  Spinning Back Fist,2,1:31,2
+5,Jose Quinonez,Carlos Huachin,60,32,2,0,0,0,Bantamweight,U-DEC,1,5:00,3
+6,Kyle Nelson,Polo Reyes,12,6,0,0,0,0,Featherweight,KO/TKO  Punch,2,1:36,1
+7,Angela Hill,Ariane Carnelossi,92,72,0,0,0,0,Women's Strawweight,KO/TKO  Elbow,2,1:56,3
+8,Sergio Pettis,Tyson Nam,96,40,0,0,0,0,Flyweight,U-DEC,1,5:00,3
+9,Paul Craig,Vinicius Moreira,18,1,1,0,1,0,Light Heavyweight,SUB  Rear Naked Choke,3,3:19,1
+10,Bethe Correia,Sijara Eubanks,59,77,0,1,0,0,Women's Bantamweight,U-DEC,1,5:00,3
+11,Claudio Puelles,Marcos Mariano,22,2,4,0,2,0,Lightweight,U-DEC,1,5:00,3
+0,Justin Gaethje,Donald Cerrone,40,17,0,0,0,0,Lightweight,KO/TKO  Punch,2,4:18,1
+1,Glover Teixeira,Nikita Krylov,43,47,1,2,2,1,Light Heavyweight,S-DEC,1,5:00,3
+2,Todd Duffee,Jeff Hughes,30,16,1,0,0,0,Heavyweight,CNC,4,4:03,1
+3,Tristan Connelly,Michel Pereira,64,32,0,2,1,0,Welterweight,U-DEC,1,5:00,3
+4,Uriah Hall,Antonio Carlos Junior,34,22,0,3,0,0,Middleweight,S-DEC,1,5:00,3
+5,Misha Cirkunov,Jimmy Crute,6,21,1,0,1,0,Light Heavyweight,SUB  Peruvian Necktie,3,3:38,1
+6,Augusto Sakai,Marcin Tybura,15,6,0,0,0,0,Heavyweight,KO/TKO  Punches,2,0:59,1
+7,Miles Johns,Cole Smith,31,11,1,1,0,0,Bantamweight,S-DEC,1,5:00,3
+8,Hunter Azure,Brad Katona,41,21,0,3,0,0,Bantamweight,U-DEC,1,5:00,3
+9,Chas Skelly,Jordan Griffin,21,37,1,1,3,2,Featherweight,U-DEC,1,5:00,3
+10,Louis Smolka,Ryan MacDonald,59,30,0,0,0,0,Bantamweight,KO/TKO  Punch,2,4:43,1
+11,Austin Hubbard,Kyle Prepolec,51,44,3,0,0,0,Lightweight,U-DEC,1,5:00,3
+0,Khabib Nurmagomedov,Dustin Poirier,22,12,7,0,2,1,Lightweight,SUB  Rear Naked Choke,3,2:06,3
+1,Paul Felder,Edson Barboza,56,60,0,1,0,0,Lightweight,S-DEC,1,5:00,3
+2,Islam Makhachev,Davi Ramos,43,7,0,0,0,0,Lightweight,U-DEC,1,5:00,3
+3,Curtis Blaydes,Shamil Abdurakhimov,25,3,5,0,0,0,Heavyweight,KO/TKO  Elbow,2,2:22,2
+4,Diego Ferreira,Mairbek Taisumov,109,51,0,0,0,0,Lightweight,U-DEC,1,5:00,3
+5,Joanne Calderwood,Andrea Lee,101,61,2,3,0,0,Women's Flyweight,S-DEC,1,5:00,3
+6,Zubaira Tukhugov,Lerone Murphy,22,28,6,0,0,2,Featherweight,S-DEC,1,5:00,3
+7,Sarah Moras,Liana Jojua,44,19,0,2,1,0,Women's Bantamweight,KO/TKO  Elbows,2,2:26,3
+8,Ottman Azaitar,Teemu Packalen,27,8,0,0,0,0,Lightweight,KO/TKO  Punch,2,3:33,1
+9,Belal Muhammad,Takashi Sato,49,29,2,1,1,0,Welterweight,SUB  Rear Naked Choke,3,1:55,3
+10,Muslim Salikhov,Nordine Taleb,10,6,0,0,0,0,Welterweight,KO/TKO  Punch,2,4:26,1
+11,Omari Akhmedov,Zak Cummings,26,17,2,0,0,0,Middleweight,U-DEC,1,5:00,3
+12,Don Madge,Fares Ziam,21,10,3,0,0,0,Lightweight,U-DEC,1,5:00,3
+0,Weili Zhang,Jessica Andrade,29,4,0,0,0,0,Women's Strawweight,KO/TKO  Punch,2,0:42,1
+1,Jingliang Li,Elizeu Zaleski dos Santos,59,54,2,0,0,0,Welterweight,KO/TKO  Punches,2,4:51,3
+2,Kai Kara-France,Mark De La Rosa,91,60,1,1,0,0,Flyweight,U-DEC,1,5:00,3
+3,Kenan Song,Derrick Krantz,58,33,0,3,0,1,Welterweight,U-DEC,1,5:00,3
+4,Mizuki Inoue,Yanan Wu,93,123,0,0,0,0,Women's Flyweight,S-DEC,1,5:00,3
+5,Anthony Hernandez,Junyong Park,59,81,6,0,1,0,Middleweight,SUB  Anaconda Choke,3,4:39,2
+6,Su Mudaerji,Andre Soukhamthath,93,23,1,0,0,0,Bantamweight,U-DEC,1,5:00,3
+7,Da-Un Jung,Khadis Ibragimov,81,88,0,1,1,0,Light Heavyweight,SUB  Guillotine Choke,3,1:59,3
+8,Damir Ismagulov,Thiago Moises,71,36,0,0,0,0,Lightweight,U-DEC,1,5:00,3
+9,Heili Alateng,Danaa Batgerel,36,85,3,0,0,0,Bantamweight,U-DEC,1,5:00,3
+10,Karol Rosa,Lara Procopio,171,165,0,0,0,0,Women's Bantamweight,S-DEC,1,5:00,3
+0,Stipe Miocic,Daniel Cormier,123,181,1,1,0,0,Heavyweight,KO/TKO  Punches,2,4:09,4
+1,Nate Diaz,Anthony Pettis,114,69,1,0,0,1,Welterweight,U-DEC,1,5:00,3
+2,Paulo Costa,Yoel Romero,118,125,0,1,0,0,Middleweight,U-DEC,1,5:00,3
+3,Sodiq Yusuff,Gabriel Benitez,34,24,0,0,0,0,Featherweight,KO/TKO  Punch,2,4:14,1
+4,Derek Brunson,Ian Heinisch,81,58,2,0,0,0,Middleweight,U-DEC,1,5:00,3
+5,Khama Worthy,Devonte Smith,21,15,0,0,0,0,Lightweight,KO/TKO  Punch,2,4:15,1
+6,Cory Sandhagen,Raphael Assuncao,62,45,0,4,0,0,Bantamweight,U-DEC,1,5:00,3
+7,Drakkar Klose,Christos Giagos,99,87,2,2,0,1,Lightweight,U-DEC,1,5:00,3
+8,Casey Kenney,Manny Bermudez,43,37,2,3,1,0,Catch Weight,U-DEC,1,5:00,3
+9,Hannah Cifers,Jodie Esquibel,70,43,1,3,1,0,Women's Strawweight,U-DEC,1,5:00,3
+10,Kyung Ho Kang,Brandon Davis,50,77,3,1,0,0,Bantamweight,S-DEC,1,5:00,3
+11,Sabina Mazo,Shana Dobson,108,33,4,0,0,0,Women's Flyweight,U-DEC,1,5:00,3
+0,Valentina Shevchenko,Liz Carmouche,42,18,1,0,0,0,Women's Flyweight,U-DEC,1,5:00,5
+1,Vicente Luque,Mike Perry,84,87,0,0,1,0,Welterweight,S-DEC,1,5:00,3
+2,Eduardo Garagorri,Humberto Bandenay,65,32,1,4,0,0,Featherweight,U-DEC,1,5:00,3
+3,Volkan Oezdemir,Ilir Latifi,64,18,0,1,0,0,Light Heavyweight,KO/TKO  Punch,2,4:31,2
+4,Rodolfo Vieira,Oskar Piechota,18,22,3,0,1,0,Middleweight,SUB  Arm Triangle,3,4:26,2
+5,Enrique Barzola,Bobby Moffett,83,90,3,0,0,0,Featherweight,S-DEC,1,5:00,3
+6,Gilbert Burns,Aleksei Kunchenko,42,47,3,0,0,0,Welterweight,U-DEC,1,5:00,3
+7,Ciryl Gane,Raphael Pessoa,15,7,0,0,1,0,Heavyweight,SUB  Arm Triangle,3,4:12,1
+8,Marina Rodriguez,Tecia Torres,84,41,1,0,1,0,Women's Strawweight,U-DEC,1,5:00,3
+9,Rogerio Bontorin,Raulian Paiva,8,3,2,0,0,0,Flyweight,KO/TKO,2,2:56,1
+10,Chris Gutierrez,Geraldo de Freitas,48,40,1,2,0,0,Bantamweight,S-DEC,1,5:00,3
+11,Alex Da Silva,Kazula Vargas,17,20,3,0,0,0,Lightweight,U-DEC,1,5:00,3
+12,Veronica Macedo,Polyana Viana,1,1,0,1,1,0,Women's Flyweight,SUB  Armbar,3,1:09,1
+0,Colby Covington,Robbie Lawler,179,78,10,0,0,0,Welterweight,U-DEC,1,5:00,5
+1,Jim Miller,Clay Guida,2,2,0,0,1,0,Lightweight,SUB  Guillotine Choke,3,0:58,1
+2,Nasrat Haqparast,Joaquim Silva,21,15,0,0,0,0,Lightweight,KO/TKO  Punch,2,0:36,2
+3,Gerald Meerschaert,Trevin Giles,6,8,1,1,1,0,Middleweight,SUB  Guillotine Choke,3,1:49,3
+4,Scott Holtzman,Dong Hyun Ma,44,16,1,1,0,0,Lightweight,KO/TKO,2,5:00,2
+5,Kennedy Nzechukwu,Darko Stosic,50,60,0,4,0,0,Light Heavyweight,U-DEC,1,5:00,3
+6,Mickey Gall,Salim Touahri,50,48,1,0,0,0,Welterweight,U-DEC,1,5:00,3
+7,Antonina Shevchenko,Lucie Pudilova,16,6,0,1,3,0,Women's Flyweight,SUB  Rear Naked Choke,3,1:20,2
+8,Matt Schnell,Jordan Espinosa,3,5,0,0,1,0,Flyweight,SUB  Triangle Choke,3,1:23,1
+9,Lauren Murphy,Mara Romero Borella,24,22,0,1,0,0,Women's Flyweight,KO/TKO  Knee,2,1:46,3
+10,Claudio Silva,Cole Williams,32,2,1,0,1,0,Welterweight,SUB  Neck Crank,3,2:35,1
+11,Miranda Granger,Hannah Goldy,61,55,0,0,0,0,Women's Flyweight,U-DEC,1,5:00,3
+0,Max Holloway,Frankie Edgar,129,96,0,1,0,0,Featherweight,U-DEC,1,5:00,5
+1,Cris Cyborg,Felicia Spencer,122,38,0,0,0,0,Women's Featherweight,U-DEC,1,5:00,3
+2,Geoff Neal,Niko Price,41,24,2,0,0,0,Welterweight,KO/TKO  Punches,2,2:39,2
+3,Arman Tsarukyan,Olivier Aubin-Mercier,47,23,2,0,0,0,Lightweight,U-DEC,1,5:00,3
+4,Krzysztof Jotko,Marc-Andre Barriault,40,39,1,1,0,0,Middleweight,S-DEC,1,5:00,3
+5,Viviane Araujo,Alexis Davis,67,68,2,0,0,0,Women's Flyweight,U-DEC,1,5:00,3
+6,Hakeem Dawodu,Yoshinori Horie,80,39,0,0,0,0,Featherweight,KO/TKO  Kick,2,4:09,3
+7,Gavin Tucker,SeungWoo Choi,37,23,5,2,2,0,Featherweight,SUB  Rear Naked Choke,3,3:17,3
+8,Deiveson Figueiredo,Alexandre Pantoja,67,61,2,2,0,0,Flyweight,U-DEC,1,5:00,3
+9,Gillian Robertson,Sarah Frota,29,9,2,0,0,0,Women's Flyweight,KO/TKO  Elbows,2,4:13,2
+10,Erik Koch,Kyle Stewart,37,23,4,0,0,0,Welterweight,U-DEC,1,5:00,3
+0,Leon Edwards,Rafael Dos Anjos,92,81,3,0,0,0,Welterweight,U-DEC,1,5:00,5
+1,Walt Harris,Aleksei Oleinik,4,1,0,0,0,0,Heavyweight,KO/TKO  Punch,2,0:12,1
+2,Greg Hardy,Juan Adams,36,3,0,0,0,0,Heavyweight,KO/TKO  Punches,2,0:45,1
+3,Dan Hooker,James Vick,22,7,0,0,0,0,Lightweight,KO/TKO  Punch,2,2:33,1
+4,Alexander Hernandez,Francisco Trinaldo,25,25,0,0,0,0,Lightweight,U-DEC,1,5:00,3
+5,Andrei Arlovski,Ben Rothwell,152,70,0,0,0,0,Heavyweight,U-DEC,1,5:00,3
+6,Alex Caceres,Steven Peterson,94,67,0,2,0,0,Featherweight,U-DEC,1,5:00,3
+7,Raquel Pennington,Irene Aldana,47,52,1,0,0,0,Women's Bantamweight,S-DEC,1,5:00,3
+8,Klidson Abreu,Sam Alvey,36,28,1,0,0,0,Light Heavyweight,U-DEC,1,5:00,3
+9,Jennifer Maia,Roxanne Modafferi,83,29,0,0,0,0,Women's Flyweight,U-DEC,1,5:00,3
+10,Ray Borg,Gabriel Silva,15,8,6,1,1,0,Bantamweight,U-DEC,1,5:00,3
+11,Mario Bautista,Jinsoo Son,129,95,0,2,0,0,Bantamweight,U-DEC,1,5:00,3
+12,Felipe Colares,Domingo Pilarte,23,11,2,2,0,1,Bantamweight,S-DEC,1,5:00,3
+0,Germaine de Randamie,Aspen Ladd,4,0,0,0,0,0,Women's Bantamweight,KO/TKO  Punch,2,0:16,1
+1,Urijah Faber,Ricky Simon,11,4,0,0,0,0,Bantamweight,KO/TKO  Punch,2,0:46,1
+2,Josh Emmett,Mirsad Bektic,27,10,0,0,0,0,Featherweight,KO/TKO  Punches,2,4:25,1
+3,Karl Roberson,Wellington Turman,50,25,0,4,0,2,Middleweight,S-DEC,1,5:00,3
+4,Marvin Vettori,Cezar Ferreira,78,39,2,0,0,0,Middleweight,U-DEC,1,5:00,3
+5,Mike Rodriguez,John Allan,70,55,0,4,0,3,Light Heavyweight,Overturned,4,5:00,3
+6,Andre Fili,Sheymon Moraes,19,11,0,0,0,0,Featherweight,KO/TKO  Punch,2,3:07,1
+7,Julianna Pena,Nicco Montano,45,38,2,3,0,0,Women's Bantamweight,U-DEC,1,5:00,3
+8,Ryan Hall,Darren Elkins,36,29,0,0,1,0,Featherweight,U-DEC,1,5:00,3
+9,Jonathan Martinez,Liu Pingyuan,32,27,0,0,0,0,Bantamweight,KO/TKO  Knee,2,3:54,3
+10,Brianna Van Buren,Livinha Souza,72,23,3,2,0,0,Women's Strawweight,U-DEC,1,5:00,3
+11,Benito Lopez,Vince Morales,54,64,0,0,0,0,Bantamweight,U-DEC,1,5:00,3
+0,Jon Jones,Thiago Santos,59,43,0,0,0,0,Light Heavyweight,S-DEC,1,5:00,5
+1,Amanda Nunes,Holly Holm,17,11,0,0,0,0,Women's Bantamweight,KO/TKO  Kick,2,4:10,1
+2,Jorge Masvidal,Ben Askren,3,0,0,0,0,0,Welterweight,KO/TKO  Flying Knee,2,0:05,1
+3,Jan Blachowicz,Luke Rockhold,30,14,0,0,0,0,Light Heavyweight,KO/TKO  Punch,2,1:39,2
+4,Michael Chiesa,Diego Sanchez,47,7,5,1,0,0,Welterweight,U-DEC,1,5:00,3
+5,Arnold Allen,Gilbert Melendez,102,23,1,0,0,0,Featherweight,U-DEC,1,5:00,3
+6,Marlon Vera,Nohelin Hernandez,10,22,1,1,1,0,Bantamweight,SUB  Rear Naked Choke,3,3:25,2
+7,Claudia Gadelha,Randa Markos,40,25,0,0,0,0,Women's Strawweight,U-DEC,1,5:00,3
+8,Song Yadong,Alejandro Perez,8,1,0,0,0,0,Bantamweight,KO/TKO  Punch,2,2:04,1
+9,Edmen Shahbazyan,Jack Marshman,13,0,1,0,1,0,Middleweight,SUB  Rear Naked Choke,3,1:12,1
+10,Chance Rencountre,Ismail Naurdiev,4,21,2,2,0,0,Welterweight,U-DEC,1,5:00,3
+11,Julia Avila,Pannie Kianzad,49,33,0,1,0,0,Women's Bantamweight,U-DEC,1,5:00,3
+0,Francis Ngannou,Junior Dos Santos,9,4,0,0,0,0,Heavyweight,KO/TKO  Punch,2,1:11,1
+1,Joseph Benavidez,Jussier Formiga,50,15,0,1,0,0,Flyweight,KO/TKO  Punches,2,4:47,2
+2,Demian Maia,Anthony Rocco Martin,3,22,3,0,0,0,Welterweight,M-DEC,1,5:00,3
+3,Vinc Pichel,Roosevelt Roberts,60,31,3,2,1,0,Lightweight,U-DEC,1,5:00,3
+4,Drew Dober,Polo Reyes,16,5,0,0,0,0,Lightweight,KO/TKO  Punches,2,1:07,1
+5,Alonzo Menifield,Paul Craig,8,7,0,0,0,0,Light Heavyweight,KO/TKO  Punch,2,3:19,1
+6,Ricardo Ramos,Journey Newson,40,38,3,0,0,1,Bantamweight,U-DEC,1,5:00,3
+7,Eryk Anders,Vinicius Moreira,11,2,0,0,0,0,Light Heavyweight,KO/TKO  Punch,2,1:18,1
+8,Jared Gordon,Dan Moret,48,34,2,2,0,1,Lightweight,U-DEC,1,5:00,3
+9,Dalcha Lungiambula,Dequan Townsend,32,13,4,0,0,0,Light Heavyweight,KO/TKO  Punch,2,0:42,3
+10,Amanda Ribas,Emily Whitmire,21,7,2,0,2,0,Women's Strawweight,SUB  Rear Naked Choke,3,2:10,2
+11,Maurice Greene,Junior Albini,37,19,0,0,0,0,Heavyweight,KO/TKO  Punch,2,3:38,1
+0,Chan Sung Jung,Renato Moicano,16,0,0,0,0,0,Featherweight,KO/TKO  Punch,2,0:58,1
+1,Randy Brown,Bryan Barberena,89,47,0,0,0,0,Welterweight,KO/TKO  Kick,2,2:54,3
+2,Andre Ewell,Anderson Dos Santos,73,35,0,2,0,0,Bantamweight,U-DEC,1,5:00,3
+3,Andrea Lee,Montana De La Rosa,73,14,1,5,0,1,Women's Flyweight,U-DEC,1,5:00,3
+4,Kevin Holland,Alessio Di Chirico,58,51,0,2,0,0,Middleweight,U-DEC,1,5:00,3
+5,Dan Ige,Kevin Aguilar,71,33,1,1,0,0,Featherweight,U-DEC,1,5:00,3
+6,Ashley Yoder,Syuri Kondo,75,23,1,0,0,1,Women's Strawweight,U-DEC,1,5:00,3
+7,Luis Pena,Matt Wiman,87,24,1,1,1,0,Lightweight,KO/TKO  Punches,2,1:14,3
+8,Jairzinho Rozenstruik,Allen Crowder,4,0,0,0,0,0,Heavyweight,KO/TKO  Punches,2,0:09,1
+9,Molly McCann,Ariane Lipski,108,68,2,0,0,0,Women's Flyweight,U-DEC,1,5:00,3
+10,Deron Winn,Eric Spicely,169,108,0,0,0,0,Middleweight,U-DEC,1,5:00,3
+0,Henry Cejudo,Marlon Moraes,90,57,1,0,1,0,Bantamweight,KO/TKO  Punches,2,4:51,3
+1,Valentina Shevchenko,Jessica Eye,8,2,2,0,1,0,Women's Flyweight,KO/TKO  Kick,2,0:26,2
+2,Tony Ferguson,Donald Cerrone,104,68,0,1,0,0,Lightweight,KO/TKO,2,5:00,2
+3,Petr Yan,Jimmie Rivera,56,73,1,0,0,0,Bantamweight,U-DEC,1,5:00,3
+4,Blagoy Ivanov,Tai Tuivasa,73,64,2,0,0,0,Heavyweight,U-DEC,1,5:00,3
+5,Tatiana Suarez,Nina Ansaroff,75,48,4,0,0,0,Women's Strawweight,U-DEC,1,5:00,3
+6,Aljamain Sterling,Pedro Munhoz,174,105,0,0,0,0,Bantamweight,U-DEC,1,5:00,3
+7,Alexa Grasso,Karolina Kowalkiewicz,148,90,0,0,1,0,Women's Strawweight,U-DEC,1,5:00,3
+8,Calvin Kattar,Ricardo Lamas,22,12,0,0,0,0,Featherweight,KO/TKO  Punch,2,4:06,1
+9,Xiaonan Yan,Angela Hill,94,71,1,1,0,1,Women's Strawweight,U-DEC,1,5:00,3
+10,Darren Stewart,Bevon Lewis,30,31,0,0,0,0,Middleweight,U-DEC,1,5:00,3
+11,Eddie Wineland,Grigorii Popov,74,55,0,0,0,0,Bantamweight,KO/TKO  Punch,2,4:47,2
+12,Katlyn Chookagian,Joanne Calderwood,82,112,0,3,0,0,Women's Flyweight,U-DEC,1,5:00,3
+0,Anthony Smith,Alexander Gustafsson,49,72,0,1,1,0,Light Heavyweight,SUB  Rear Naked Choke,3,2:38,4
+1,Aleksandar Rakic,Jimi Manuwa,2,2,0,0,0,0,Light Heavyweight,KO/TKO  Kick,2,0:47,1
+2,Makwan Amirkhani,Chris Fishgold,9,16,1,0,1,0,Featherweight,SUB  Anaconda Choke,3,4:25,2
+3,Christos Giagos,Damir Hadzovic,47,24,6,1,0,0,Lightweight,U-DEC,1,5:00,3
+4,Daniel Teymur,Sung Bin Jo,40,21,1,1,0,1,Featherweight,U-DEC,1,5:00,3
+5,Sergey Khandozhko,Rostem Akman,60,39,1,2,0,0,Welterweight,U-DEC,1,5:00,3
+6,Lina Lansberg,Tonya Evinger,50,6,1,1,0,0,Women's Bantamweight,U-DEC,1,5:00,3
+7,Leonardo Santos,Stevie Ray,12,2,0,0,0,0,Lightweight,KO/TKO  Punch,2,2:17,1
+8,Frank Camacho,Nick Hein,100,37,0,1,0,0,Lightweight,KO/TKO  Punches,2,4:56,2
+9,Bea Malecki,Duda Santana,19,42,0,3,2,0,Women's Bantamweight,SUB  Rear Naked Choke,3,1:59,2
+10,Devin Clark,Darko Stosic,40,26,2,1,0,0,Light Heavyweight,U-DEC,1,5:00,3
+11,Joel Alvarez,Danilo Belluardo,19,13,0,2,0,0,Lightweight,KO/TKO  Punches,2,2:22,2
+0,Rafael Dos Anjos,Kevin Lee,60,35,4,6,1,0,Welterweight,SUB  Arm Triangle,3,3:47,4
+1,Ian Heinisch,Antonio Carlos Junior,39,15,1,4,0,0,Middleweight,U-DEC,1,5:00,3
+2,Felicia Spencer,Megan Anderson,22,3,1,0,1,0,Women's Featherweight,SUB  Rear Naked Choke,3,3:24,1
+3,Vicente Luque,Derrick Krantz,18,6,0,1,0,0,Welterweight,KO/TKO  Punch,2,3:52,1
+4,Charles Oliveira,Nik Lentz,38,18,0,2,1,0,Lightweight,KO/TKO  Punch,2,2:11,2
+5,Davi Ramos,Austin Hubbard,63,44,3,0,0,0,Lightweight,U-DEC,1,5:00,3
+6,Aspen Ladd,Sijara Eubanks,69,77,3,2,3,0,Women's Bantamweight,U-DEC,1,5:00,3
+7,Desmond Green,Charles Jourdain,78,55,4,0,0,0,Lightweight,U-DEC,1,5:00,3
+8,Michel Pereira,Danny Roberts,6,2,0,0,0,0,Welterweight,KO/TKO  Flying Knee,2,1:47,1
+9,Grant Dawson,Michael Trizano,27,20,3,0,1,0,Featherweight,SUB  Rear Naked Choke,3,2:27,2
+10,Ed Herman,Patrick Cummins,11,22,0,1,0,0,Light Heavyweight,KO/TKO  Knee,2,3:39,1
+11,Zak Cummings,Trevin Giles,34,31,0,0,1,0,Middleweight,SUB  Guillotine Choke,3,4:01,3
+12,Julio Arce,Julian Erosa,74,43,1,0,0,0,Featherweight,KO/TKO  Kick,2,1:49,3
+0,Jessica Andrade,Rose Namajunas,47,55,2,0,0,1,Women's Strawweight,KO/TKO  Slam,2,2:58,2
+1,Jared Cannonier,Anderson Silva,17,8,0,0,0,0,Middleweight,KO/TKO  Kick,2,4:47,1
+2,Alexander Volkanovski,Jose Aldo,95,29,0,0,0,0,Featherweight,U-DEC,1,5:00,3
+3,Laureano Staropoli,Thiago Alves,54,58,1,1,0,0,Welterweight,U-DEC,1,5:00,3
+4,Irene Aldana,Bethe Correia,83,81,0,0,1,0,Women's Bantamweight,SUB  Armbar,3,3:24,3
+5,Ryan Spann,Rogerio Nogueira,13,6,1,0,1,0,Light Heavyweight,KO/TKO  Punch,2,2:07,1
+6,Thiago Moises,Kurt Holobaugh,66,39,4,2,1,0,Lightweight,U-DEC,1,5:00,3
+7,Warlley Alves,Sergio Moraes,72,20,0,0,0,0,Welterweight,KO/TKO  Punch,2,4:13,3
+8,Clay Guida,BJ Penn,80,64,1,0,0,0,Lightweight,U-DEC,1,5:00,3
+9,Luana Carolina,Priscila Cachoeira,111,69,0,0,3,0,Women's Flyweight,U-DEC,1,5:00,3
+10,Raoni Barcelos,Carlos Huachin,59,20,0,0,1,0,Bantamweight,KO/TKO  Elbows,2,4:49,2
+11,Viviane Araujo,Talita Bernardo,61,46,3,0,0,0,Women's Bantamweight,KO/TKO  Punch,2,0:48,3
+0,Donald Cerrone,Al Iaquinta,138,90,0,0,0,0,Lightweight,U-DEC,1,5:00,5
+1,Derek Brunson,Elias Theodorou,56,65,4,0,0,0,Middleweight,U-DEC,1,5:00,3
+2,Shane Burgos,Cub Swanson,134,129,0,0,0,0,Featherweight,S-DEC,1,5:00,3
+3,Merab Dvalishvili,Brad Katona,55,32,5,0,0,0,Bantamweight,U-DEC,1,5:00,3
+4,Walt Harris,Serghei Spivac,17,1,0,0,0,0,Heavyweight,KO/TKO  Knees,2,0:50,1
+5,Andrew Sanchez,Marc-Andre Barriault,72,69,2,0,0,0,Middleweight,U-DEC,1,5:00,3
+6,Macy Chiasson,Sarah Moras,43,9,0,1,0,1,Women's Bantamweight,KO/TKO  Punches,2,2:22,2
+7,Vince Morales,Aiemann Zahabi,59,28,0,1,0,0,Bantamweight,U-DEC,1,5:00,3
+8,Nordine Taleb,Kyle Prepolec,90,52,0,0,0,0,Welterweight,U-DEC,1,5:00,3
+9,Matt Sayles,Kyle Nelson,75,26,0,2,1,4,Featherweight,SUB  Arm Triangle,3,3:16,3
+10,Arjan Bhullar,Juan Adams,41,81,2,0,0,0,Heavyweight,U-DEC,1,5:00,3
+11,Cole Smith,Mitch Gagnon,38,15,2,0,2,2,Bantamweight,U-DEC,1,5:00,3
+0,Jack Hermansson,Jacare Souza,148,90,3,0,1,0,Middleweight,U-DEC,1,5:00,5
+1,Greg Hardy,Dmitrii Smoliakov,14,1,0,0,0,0,Heavyweight,KO/TKO  Punches,2,2:15,1
+2,Mike Perry,Alex Oliveira,65,48,0,0,0,0,Welterweight,U-DEC,1,5:00,3
+3,Glover Teixeira,Ion Cutelaba,30,74,0,0,1,0,Light Heavyweight,SUB  Rear Naked Choke,3,3:37,2
+4,Cory Sandhagen,John Lineker,120,106,2,1,0,1,Bantamweight,S-DEC,1,5:00,3
+5,Roosevelt Roberts,Thomas Gifford,53,30,2,1,0,0,Lightweight,U-DEC,1,5:00,3
+6,Takashi Sato,Ben Saunders,28,46,0,0,0,0,Welterweight,KO/TKO  Elbows,2,1:18,2
+7,Augusto Sakai,Andrei Arlovski,42,75,0,0,0,0,Heavyweight,S-DEC,1,5:00,3
+8,Carla Esparza,Virna Jandiroba,25,17,4,3,0,0,Women's Strawweight,U-DEC,1,5:00,3
+9,Gilbert Burns,Mike Davis,49,13,3,0,1,0,Lightweight,SUB  Rear Naked Choke,3,4:15,2
+10,Jim Miller,Jason Gonzalez,6,10,2,0,1,0,Lightweight,SUB  Rear Naked Choke,3,2:12,1
+11,Angela Hill,Jodie Esquibel,117,57,0,0,0,0,Women's Strawweight,U-DEC,1,5:00,3
+12,Dhiego Lima,Court McGee,65,65,0,0,0,0,Welterweight,S-DEC,1,5:00,3
+0,Alistair Overeem,Aleksei Oleinik,29,38,0,0,0,0,Heavyweight,KO/TKO  Knee,2,4:45,1
+1,Islam Makhachev,Arman Tsarukyan,14,13,4,1,0,0,Lightweight,U-DEC,1,5:00,3
+2,Sergei Pavlovich,Marcelo Golm,17,5,0,0,0,0,Heavyweight,KO/TKO  Punches,2,1:06,1
+3,Roxanne Modafferi,Antonina Shevchenko,33,64,5,0,0,0,Women's Flyweight,S-DEC,1,5:00,3
+4,Krzysztof Jotko,Alen Amedovski,43,6,4,0,0,0,Middleweight,U-DEC,1,5:00,3
+5,Movsar Evloev,SeungWoo Choi,50,26,5,0,0,0,Featherweight,U-DEC,1,5:00,3
+6,Sultan Aliev,Keita Nakamura,25,29,2,0,0,0,Welterweight,U-DEC,1,5:00,3
+7,Alexander Yakovlev,Alex Da Silva,14,8,1,1,1,0,Lightweight,SUB  Other - Choke,3,3:10,2
+8,Shamil Abdurakhimov,Marcin Tybura,36,28,0,0,0,0,Heavyweight,KO/TKO  Punches,2,3:15,2
+9,Michal Oleksiejczuk,Gadzhimurad Antigulov,8,6,0,0,0,0,Light Heavyweight,KO/TKO  Punch,2,0:44,1
+10,Magomed Mustafaev,Rafael Fiziev,10,1,0,0,0,0,Lightweight,KO/TKO  Spinning Back Kick,2,1:26,1
+0,Dustin Poirier,Max Holloway,178,181,1,0,0,1,Lightweight,U-DEC,1,5:00,5
+1,Israel Adesanya,Kelvin Gastelum,109,91,0,1,2,0,Middleweight,U-DEC,1,5:00,5
+2,Khalil Rountree Jr.,Eryk Anders,79,16,0,0,0,0,Light Heavyweight,U-DEC,1,5:00,3
+3,Dwight Grant,Alan Jouban,38,24,0,1,0,0,Welterweight,S-DEC,1,5:00,3
+4,Nikita Krylov,Ovince Saint Preux,27,4,1,3,2,0,Light Heavyweight,SUB  Rear Naked Choke,3,2:30,2
+5,Matt Frevola,Jalin Turner,31,35,4,0,2,1,Lightweight,U-DEC,1,5:00,3
+6,Alexandre Pantoja,Wilson Reis,23,1,0,1,0,0,Flyweight,KO/TKO  Punch,2,2:58,1
+7,Max Griffin,Zelim Imadaev,47,64,6,0,3,0,Welterweight,M-DEC,1,5:00,3
+8,Khalid Taha,Boston Salmon,5,0,0,0,0,0,Bantamweight,KO/TKO  Punch,2,0:25,1
+9,Belal Muhammad,Curtis Millender,47,48,2,0,0,0,Welterweight,U-DEC,1,5:00,3
+10,Montel Jackson,Andre Soukhamthath,64,30,3,1,0,0,Bantamweight,U-DEC,1,5:00,3
+11,Poliana Botelho,Lauren Mueller,47,47,2,0,0,0,Women's Flyweight,U-DEC,1,5:00,3
+12,Brandon Davis,Randy Costa,35,46,0,0,1,0,Bantamweight,SUB  Rear Naked Choke,3,1:12,2
+0,Justin Gaethje,Edson Barboza,20,13,0,0,0,0,Lightweight,KO/TKO  Punch,2,2:30,1
+1,Jack Hermansson,David Branch,3,1,1,0,1,0,Middleweight,SUB  Guillotine Choke,3,0:49,1
+2,Josh Emmett,Michael Johnson,22,24,0,0,0,0,Featherweight,KO/TKO  Punch,2,4:14,3
+3,Michelle Waterson,Karolina Kowalkiewicz,64,57,2,0,1,0,Women's Strawweight,U-DEC,1,5:00,3
+4,Paul Craig,Kennedy Nzechukwu,25,40,1,0,2,0,Light Heavyweight,SUB  Triangle Choke,3,4:20,3
+5,Sodiq Yusuff,Sheymon Moraes,73,54,0,0,0,0,Featherweight,U-DEC,1,5:00,3
+6,Marina Rodriguez,Jessica Aguilar,118,50,0,0,0,1,Women's Strawweight,U-DEC,1,5:00,3
+7,Desmond Green,Ross Pearson,25,12,1,0,0,0,Lightweight,KO/TKO  Punches,2,2:52,1
+8,Kevin Aguilar,Enrique Barzola,58,52,0,0,0,0,Featherweight,U-DEC,1,5:00,3
+9,Kevin Holland,Gerald Meerschaert,27,10,1,6,2,4,Middleweight,S-DEC,1,5:00,3
+10,Casey Kenney,Ray Borg,32,17,2,7,0,0,Bantamweight,U-DEC,1,5:00,3
+11,Maryna Moroz,Sabina Mazo,56,64,1,0,0,0,Women's Flyweight,U-DEC,1,5:00,3
+12,Alex Perez,Mark De La Rosa,60,26,2,0,0,0,Bantamweight,U-DEC,1,5:00,3
+0,Anthony Pettis,Stephen Thompson,32,47,0,0,0,0,Welterweight,KO/TKO  Punch,2,4:55,2
+1,Curtis Blaydes,Justin Willis,22,2,7,0,0,0,Heavyweight,U-DEC,1,5:00,3
+2,John Makdessi,Jesus Pinedo,73,37,0,0,0,0,Lightweight,U-DEC,1,5:00,3
+3,Jussier Formiga,Deiveson Figueiredo,26,14,3,0,0,0,Flyweight,U-DEC,1,5:00,3
+4,Luis Pena,Steven Peterson,52,34,1,4,0,1,Featherweight,U-DEC,1,5:00,3
+5,Maycee Barber,JJ Aldrich,55,25,0,0,0,0,Women's Flyweight,KO/TKO  Punches,2,3:01,2
+6,Bryce Mitchell,Bobby Moffett,17,9,0,5,2,2,Featherweight,U-DEC,1,5:00,3
+7,Marlon Vera,Frankie Saenz,12,4,0,0,0,0,Bantamweight,KO/TKO  Punch,2,1:25,1
+8,Jennifer Maia,Alexis Davis,60,72,0,1,0,0,Women's Flyweight,U-DEC,1,5:00,3
+9,Randa Markos,Angela Hill,13,2,1,0,1,0,Women's Strawweight,SUB  Armbar,3,4:24,1
+10,Chris Gutierrez,Ryan MacDonald,69,15,0,0,0,0,Bantamweight,U-DEC,1,5:00,3
+11,Jordan Espinosa,Eric Shelton,47,25,1,0,0,0,Flyweight,U-DEC,1,5:00,3
+0,Jorge Masvidal,Darren Till,35,21,1,1,0,0,Welterweight,KO/TKO  Punch,2,3:05,2
+1,Leon Edwards,Gunnar Nelson,31,9,2,3,0,0,Welterweight,S-DEC,1,5:00,3
+2,Dominick Reyes,Volkan Oezdemir,44,35,0,1,0,0,Light Heavyweight,S-DEC,1,5:00,3
+3,Nathaniel Wood,Jose Quinonez,30,34,2,1,2,0,Bantamweight,SUB  Rear Naked Choke,3,2:46,2
+4,Claudio Silva,Danny Roberts,19,26,3,0,4,0,Welterweight,SUB  Armbar,3,2:37,3
+5,Jack Marshman,John Phillips,31,32,0,0,0,0,Middleweight,S-DEC,1,5:00,3
+6,Arnold Allen,Jordan Rinaldi,37,30,0,0,0,0,Featherweight,U-DEC,1,5:00,3
+7,Marc Diakiese,Joe Duffy,63,15,3,1,0,0,Lightweight,U-DEC,1,5:00,3
+8,Saparbeg Safarov,Nicolae Negumereanu,70,11,3,0,0,0,Light Heavyweight,U-DEC,1,5:00,3
+9,Dan Ige,Danny Henry,10,4,1,0,1,0,Featherweight,SUB  Rear Naked Choke,3,1:17,1
+10,Molly McCann,Priscila Cachoeira,107,75,2,0,2,0,Women's Flyweight,U-DEC,1,5:00,3
+11,Mike Grundy,Nad Narimani,33,22,1,0,0,0,Featherweight,KO/TKO  Punches,2,4:42,2
+0,Junior Dos Santos,Derrick Lewis,29,7,0,0,0,0,Heavyweight,KO/TKO  Punches,2,1:58,2
+1,Elizeu Zaleski dos Santos,Curtis Millender,6,0,1,0,1,0,Welterweight,SUB  Rear Naked Choke,3,2:35,1
+2,Niko Price,Tim Means,32,31,0,1,0,0,Welterweight,KO/TKO  Punch,2,4:50,1
+3,Blagoy Ivanov,Ben Rothwell,72,70,0,0,0,0,Heavyweight,U-DEC,1,5:00,3
+4,Beneil Dariush,Drew Dober,37,31,2,0,1,0,Lightweight,SUB  Armbar,3,4:41,2
+5,Omari Akhmedov,Tim Boetsch,52,41,0,0,0,0,Middleweight,U-DEC,1,5:00,3
+6,Anthony Rocco Martin,Sergio Moraes,50,19,0,3,0,0,Welterweight,U-DEC,1,5:00,3
+7,Yana Kunitskaya,Marion Reneau,98,58,1,1,0,0,Women's Bantamweight,U-DEC,1,5:00,3
+8,Grant Dawson,Julian Erosa,57,49,6,0,1,1,Featherweight,U-DEC,1,5:00,3
+9,Maurice Greene,Jeff Hughes,70,66,0,0,0,0,Heavyweight,S-DEC,1,5:00,3
+10,Matt Schnell,Louis Smolka,14,13,1,0,2,0,Bantamweight,SUB  Triangle Choke,3,3:18,1
+11,Alex Morono,Zak Ottow,25,10,0,1,1,0,Welterweight,KO/TKO  Elbows,2,3:34,1
+12,Alex White,Dan Moret,49,42,2,1,3,0,Lightweight,U-DEC,1,5:00,3
+0,Jon Jones,Anthony Smith,125,36,3,0,0,0,Light Heavyweight,U-DEC,1,5:00,5
+1,Kamaru Usman,Tyron Woodley,141,34,2,0,0,0,Welterweight,U-DEC,1,5:00,5
+2,Ben Askren,Robbie Lawler,0,26,1,1,1,0,Welterweight,SUB  Other - Choke,3,3:20,1
+3,Weili Zhang,Tecia Torres,63,30,2,0,0,0,Women's Strawweight,U-DEC,1,5:00,3
+4,Pedro Munhoz,Cody Garbrandt,25,21,0,0,0,0,Bantamweight,KO/TKO  Punch,2,4:52,1
+5,Zabit Magomedsharipov,Jeremy Stephens,70,41,3,0,0,0,Featherweight,U-DEC,1,5:00,3
+6,Johnny Walker,Misha Cirkunov,4,1,0,0,0,0,Light Heavyweight,KO/TKO  Flying Knee,2,0:36,1
+7,Cody Stamann,Alejandro Perez,48,41,0,1,0,0,Bantamweight,U-DEC,1,5:00,3
+8,Diego Sanchez,Mickey Gall,56,23,4,0,0,0,Welterweight,KO/TKO  Punches,2,4:13,2
+9,Edmen Shahbazyan,Charles Byrd,13,1,0,0,0,0,Middleweight,KO/TKO  Elbows,2,0:38,1
+10,Macy Chiasson,Gina Mazany,25,14,0,0,0,0,Women's Bantamweight,KO/TKO  Punch,2,1:49,1
+11,Hannah Cifers,Polyana Viana,67,77,0,0,0,0,Women's Strawweight,S-DEC,1,5:00,3
+0,Thiago Santos,Jan Blachowicz,52,20,1,0,0,0,Light Heavyweight,KO/TKO  Punch,2,0:39,3
+1,Stefan Struve,Marcos Rogerio de Lima,0,25,1,0,1,0,Heavyweight,SUB  Arm Triangle,3,2:21,2
+2,Michal Oleksiejczuk,Gian Villante,14,9,0,0,0,0,Light Heavyweight,KO/TKO  Punch,2,1:34,1
+3,Liz Carmouche,Lucie Pudilova,14,33,3,0,2,2,Women's Flyweight,U-DEC,1,5:00,3
+4,Petr Yan,John Dodson,80,30,2,2,0,0,Bantamweight,U-DEC,1,5:00,3
+5,Magomed Ankalaev,Klidson Abreu,30,23,1,0,0,0,Light Heavyweight,U-DEC,1,5:00,3
+6,Dwight Grant,Carlo Pedersoli,20,17,0,1,0,0,Welterweight,KO/TKO  Punch,2,4:59,1
+7,Chris Fishgold,Daniel Teymur,14,17,5,1,2,0,Featherweight,SUB  Rear Naked Choke,3,1:10,2
+8,Gillian Robertson,Veronica Macedo,5,23,2,1,1,0,Women's Flyweight,SUB  Rear Naked Choke,3,3:27,2
+9,Damir Hadzovic,Polo Reyes,58,24,2,0,0,0,Lightweight,KO/TKO  Punches,2,2:03,2
+10,Ismail Naurdiev,Michel Prazeres,63,15,0,3,1,0,Welterweight,U-DEC,1,5:00,3
+11,Diego Ferreira,Rustam Khabilov,83,43,0,3,1,0,Lightweight,U-DEC,1,5:00,3
+12,Damir Ismagulov,Joel Alvarez,64,38,0,0,0,0,Lightweight,U-DEC,1,5:00,3
+0,Francis Ngannou,Cain Velasquez,6,1,0,0,0,0,Heavyweight,KO/TKO  Punches,2,0:26,1
+1,Paul Felder,James Vick,55,61,0,0,0,0,Lightweight,U-DEC,1,5:00,3
+2,Cynthia Calvillo,Cortney Casey,82,73,0,0,0,0,Women's Strawweight,U-DEC,1,5:00,3
+3,Kron Gracie,Alex Caceres,2,4,1,0,1,0,Featherweight,SUB  Rear Naked Choke,3,2:06,1
+4,Vicente Luque,Bryan Barberena,163,169,0,0,2,0,Welterweight,KO/TKO  Knee,2,4:54,3
+5,Andre Fili,Myles Jury,98,76,0,0,0,0,Featherweight,U-DEC,1,5:00,3
+6,Aljamain Sterling,Jimmie Rivera,101,24,0,0,0,0,Bantamweight,U-DEC,1,5:00,3
+7,Manny Bermudez,Benito Lopez,7,7,1,0,1,0,Bantamweight,SUB  Guillotine Choke,3,3:09,1
+8,Andrea Lee,Ashlee Evans-Smith,111,66,0,2,0,0,Women's Flyweight,U-DEC,1,5:00,3
+9,Nik Lentz,Scott Holtzman,71,54,5,0,1,0,Lightweight,U-DEC,1,5:00,3
+10,Luke Sanders,Renan Barao,39,40,0,0,0,0,Bantamweight,KO/TKO  Punch,2,1:01,2
+11,Emily Whitmire,Alexandra Albu,3,2,1,0,1,0,Women's Strawweight,SUB  Rear Naked Choke,3,1:01,1
+0,Israel Adesanya,Anderson Silva,65,31,0,0,0,0,Middleweight,U-DEC,1,5:00,3
+1,Lando Vannata,Marcos Mariano,20,3,1,0,1,0,Lightweight,SUB  Kimura,3,4:55,1
+2,Ricky Simon,Rani Yahya,54,47,4,0,0,0,Bantamweight,U-DEC,1,5:00,3
+3,Montana De La Rosa,Nadia Kassem,21,5,2,0,3,0,Women's Flyweight,SUB  Armbar,3,2:37,2
+4,Jimmy Crute,Sam Alvey,14,3,0,0,0,0,Light Heavyweight,KO/TKO  Punches,2,2:49,1
+5,Devonte Smith,Dong Hyun Ma,19,1,0,0,0,0,Lightweight,KO/TKO  Punch,2,3:53,1
+6,Shane Young,Austin Arnett,120,77,0,0,0,0,Featherweight,U-DEC,1,5:00,3
+7,Kai Kara-France,Raulian Paiva,58,67,2,0,0,1,Flyweight,S-DEC,1,5:00,3
+8,Kyung Ho Kang,Teruto Ishihara,26,17,1,0,1,0,Bantamweight,SUB  Rear Naked Choke,3,3:59,1
+9,Jalin Turner,Callan Potter,9,3,0,0,0,0,Lightweight,KO/TKO  Kick,2,0:53,1
+10,Jonathan Martinez,Wuliji Buren,47,17,1,3,0,1,Bantamweight,U-DEC,1,5:00,3
+0,Marlon Moraes,Raphael Assuncao,10,2,0,0,1,0,Bantamweight,SUB  Guillotine Choke,3,3:17,1
+1,Jose Aldo,Renato Moicano,26,24,0,0,0,0,Featherweight,KO/TKO  Punches,2,0:44,2
+2,Demian Maia,Lyman Good,0,0,2,0,2,0,Welterweight,SUB  Rear Naked Choke,3,2:38,1
+3,Charles Oliveira,David Teymur,28,26,1,0,1,0,Lightweight,SUB  Anaconda Choke,3,0:55,2
+4,Johnny Walker,Justin Ledet,7,0,0,0,0,0,Light Heavyweight,KO/TKO  Spinning Back Fist,2,0:15,1
+5,Livinha Souza,Sarah Frota,23,32,4,0,3,0,Women's Strawweight,S-DEC,1,5:00,3
+6,Markus Perez,Anthony Hernandez,16,17,1,0,1,0,Middleweight,SUB  Anaconda Choke,3,1:07,2
+7,Mara Romero Borella,Taila Santos,29,36,2,1,0,2,Women's Flyweight,S-DEC,1,5:00,3
+8,Thiago Alves,Max Griffin,83,112,0,2,0,0,Welterweight,S-DEC,1,5:00,3
+9,Jairzinho Rozenstruik,Junior Albini,19,18,0,2,0,0,Heavyweight,KO/TKO  Kick,2,0:54,2
+10,Geraldo de Freitas,Felipe Colares,49,21,6,3,0,0,Featherweight,U-DEC,1,5:00,3
+11,Said Nurmagomedov,Ricardo Ramos,17,2,0,0,0,0,Bantamweight,KO/TKO  Spinning Back Kick,2,2:28,1
+12,Rogerio Bontorin,Magomed Bibulatov,40,58,1,4,2,0,Flyweight,S-DEC,1,5:00,3
+0,Henry Cejudo,TJ Dillashaw,18,1,0,0,0,0,Flyweight,KO/TKO  Punches,2,0:32,1
+1,Allen Crowder,Greg Hardy,12,29,1,0,1,0,Heavyweight,DQ,4,2:28,2
+2,Gregor Gillespie,Yancy Medeiros,51,1,6,0,0,0,Lightweight,KO/TKO  Punches,2,4:59,2
+3,Joseph Benavidez,Dustin Ortiz,21,49,7,3,0,0,Flyweight,U-DEC,1,5:00,3
+4,Paige VanZant,Rachael Ostovich,17,10,0,4,2,0,Women's Flyweight,SUB  Armbar,3,1:50,2
+5,Glover Teixeira,Karl Roberson,6,24,1,0,1,0,Light Heavyweight,SUB  Arm Triangle,3,3:21,1
+6,Donald Cerrone,Alexander Hernandez,80,49,1,0,0,0,Lightweight,KO/TKO  Kick,2,3:43,2
+7,Joanne Calderwood,Ariane Lipski,85,53,1,1,2,0,Women's Flyweight,U-DEC,1,5:00,3
+8,Alonzo Menifield,Vinicius Moreira,33,11,0,0,0,0,Light Heavyweight,KO/TKO  Punch,2,3:56,1
+9,Cory Sandhagen,Mario Bautista,17,9,1,1,2,0,Bantamweight,SUB  Armbar,3,3:31,1
+10,Dennis Bermudez,Te Edwards,63,23,5,0,2,0,Lightweight,U-DEC,1,5:00,3
+11,Geoff Neal,Belal Muhammad,71,63,0,0,0,0,Welterweight,U-DEC,1,5:00,3
+12,Chance Rencountre,Kyle Stewart,6,2,2,0,1,0,Welterweight,SUB  Rear Naked Choke,3,2:25,1
